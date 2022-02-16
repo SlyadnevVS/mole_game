@@ -1,0 +1,1 @@
+let telo = document.querySelector
